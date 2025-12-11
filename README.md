@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Koray</h1>
-<h3 align="center">A passionate python developer from Germany</h3>
+<h3 align="center">An aspiring python developer and Data Scientist from Germany</h3>
 
 - 🌱 I’m currently learning **Data Science**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 

@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring python developer and Data Scientist from Germany</h3>
 
 - 🌱 I’m currently learning **Deepl Learning Librarys**
-
+Check out my Portfolio [here]([korayyildirim/Portfolio](https://github.com/korayyildirim/Portfolio))
 <p align="left">
 </p>
 

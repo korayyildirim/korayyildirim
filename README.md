@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Koray</h1>
 <h3 align="center">An aspiring python developer and Data Scientist from Germany</h3>
 
-- 🌱 I’m currently learning **Deepl Learning Librarys**
+- 🌱 I’m currently looking into learning **Deepl Learning ** & **AI**
 Check out my Portfolio [here](https://github.com/korayyildirim/Portfolio).
 <p align="left">
+Check out the Projects in my Portfolio [here](https://github.com/korayyildirim/Portfolio).
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

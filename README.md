@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koray</h1>
 <h3 align="center">An aspiring python developer and Data Scientist from Germany</h3>
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Deepl Learning Librarys**
 
 <p align="left">
 </p>

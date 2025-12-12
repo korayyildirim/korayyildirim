@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Koray</h1>
 <h3 align="center">An aspiring python developer and Data Scientist from Germany</h3>
 
-- 🌱 I’m currently looking into learning **Deep** ** Learning ** & **AI**
+- 🌱 I’m currently looking into learning **Deep** **Learning** & **AI**
 
 
 Check out the Projects in my Portfolio [here](https://github.com/korayyildirim/Portfolio).

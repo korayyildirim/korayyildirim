@@ -2,7 +2,7 @@
 <h3 align="center">An aspiring python developer and Data Scientist from Germany</h3>
 
 - 🌱 I’m currently looking into learning **Deep** ** Learning ** & **AI**
-Check out my Portfolio [here](https://github.com/korayyildirim/Portfolio).
+
 
 Check out the Projects in my Portfolio [here](https://github.com/korayyildirim/Portfolio).
 

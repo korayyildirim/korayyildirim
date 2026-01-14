@@ -3,7 +3,7 @@
 
 
 
-- 🌱 I’m currently looking into learning **Deep** **Learning** & **LLMs**
+- 🌱 I’m currently looking into learning more about **Deep** **Learning** & **LLMs** tools.
 
 
 Check out the Projects in my Portfolio [here](https://github.com/korayyildirim/Portfolio).

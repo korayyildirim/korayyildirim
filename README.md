@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Koray</h1>
-<h3 align="center">An enthusiastic Data Science and Python Developer</h3>
+<h3 align="center">An enthusiastic Data Scientist and Python Developer</h3>
 
 <br></br>
 ### 🚀 What I do
